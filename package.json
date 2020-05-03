@@ -1,0 +1,16 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mike lyons",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.13.4",
+    "tslint": "^6.1.2",
+    "typescript": "^3.8.3"
+  }
+}
